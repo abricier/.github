@@ -12,7 +12,7 @@ Please make sure that the pull request is limited to one type (docs, feature, et
 - [x] Completed
 -->
 
-## ⊙ Associated Issues
+## ⦿ Associated Issues
 <!-- If this pull request closes an issue, please mention the issue number below -->
 Closes # <!-- Issue # here -->
 
